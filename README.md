@@ -1,9 +1,4 @@
-<div style="text-align: center;">
-  <img style="margin-left: 100px;" src="https://readme-typing-svg.demolab.com?font=Jura&weight=500&size=40&pause=1000&color=F7F7F7¢er=true&random=false&width=300&height=80&lines=Hey+there!" alt="Typing SVG" />
-</div>
-
-____
-
+___
 <h2 align="center">About</h2>
 <p align="center">
   19 y.o.<br>
@@ -13,6 +8,7 @@ ____
   Novosibirsk, Russia 🇷🇺
 </p>
 
+____
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/></a>
@@ -31,13 +27,9 @@ ____
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/notion/000000" alt="notion" width="50" height="50"/></a>
 </p>
 
+___
 <h2 align="center">My GitHub Stats</h2>
 <p align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=christmas-fire&theme=dark" alt="christmas-fire GitHub Streak" />
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=christmas-fire&show_icons=true&theme=dark&locale=en&count_private=true" alt="christmas-fire GitHub Stats" /><!-- No newline/space -->
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christmas-fire&layout=compact&theme=dark&locale=en" alt="christmas-fire Top Languages" />
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=christmas-fire&show_icons=true&theme=dark&locale=en&count_private=true" alt="christmas-fire GitHub Stats" />
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christmas-fire&layout=compact&theme=dark&locale=en" alt="christmas-fire Top Languages" />
 </p>
