@@ -25,6 +25,5 @@
 
 <h2 align="center">My GitHub Stats</h2>
 <p align="center">
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christmas-fire&layout=compact&theme=dark&locale=en" alt="christmas-fire Top Languages" />
   <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=christmas-fire&show_icons=true&theme=dark&locale=en&count_private=true" alt="christmas-fire GitHub Stats" />
 </p>
