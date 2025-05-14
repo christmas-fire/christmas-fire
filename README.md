@@ -3,8 +3,8 @@
   19 y.o.<br>
   Backend Golang/Python Developer<br><br>
   Student at SibSUTIS 🎓<br>
-  (Siberian State University of Telecommunications and Information Science)<br>
-  Novosibirsk, Russia 🇷🇺
+  (Siberian State University of Telecommunications and Information Science)<br><br>
+  Novosibirsk, Russia
 </p>
 
 <h2 align="center">Languages and Tools</h2>
