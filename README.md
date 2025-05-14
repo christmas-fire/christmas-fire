@@ -1,4 +1,3 @@
-___
 <h2 align="center">About</h2>
 <p align="center">
   19 y.o.<br>
@@ -8,7 +7,6 @@ ___
   Novosibirsk, Russia 🇷🇺
 </p>
 
-____
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/></a>
@@ -23,13 +21,10 @@ ____
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></a>
-  <a href="https://obsidian.md/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/obsidian/AE60F3" alt="obsidian" width="50" height="50"/></a>
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/notion/000000" alt="notion" width="50" height="50"/></a>
 </p>
 
-___
 <h2 align="center">My GitHub Stats</h2>
 <p align="center">
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=christmas-fire&show_icons=true&theme=dark&locale=en&count_private=true" alt="christmas-fire GitHub Stats" />
   <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christmas-fire&layout=compact&theme=dark&locale=en" alt="christmas-fire Top Languages" />
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=christmas-fire&show_icons=true&theme=dark&locale=en&count_private=true" alt="christmas-fire GitHub Stats" />
 </p>
